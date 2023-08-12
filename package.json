@@ -2,7 +2,7 @@
   "name": "calculatorreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anamikajangid.github.io/f4-reactcalculator",
+  "homepage": "https://adilsay.github.io/reactCalculator-f4-c1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
